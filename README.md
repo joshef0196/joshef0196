@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Joshef Hossain</h1>
+<h1 align="center">Hi 👋, I'm Josef Mia </h1>
 <h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
 ---
 
-- 🔭 I’m currently working on **ERP systems, Visa Consultancy platforms, E-commerce projects and Many type of projects**
+- 🔭 I’m currently working on **ERP systems, Visa Consultancy platforms, E-commerce projects and many other exciting projects.**
 - 🌱 I’m learning **Django Channels, WebSocket, and React**
 - 👯 I’m open to collaboration on **real-world Python/Django projects**
 - 🧠 I’m sharpening my knowledge of **system design and API integration**
