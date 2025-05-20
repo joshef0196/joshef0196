@@ -3,14 +3,12 @@
 
 ---
 
-- 🔭 I’m currently working on **ERP systems, Visa Consultancy platforms, and E-commerce projects**
+- 🔭 I’m currently working on **ERP systems, Visa Consultancy platforms, E-commerce projects and Many type of projects**
 - 🌱 I’m learning **Django Channels, WebSocket, and React**
 - 👯 I’m open to collaboration on **real-world Python/Django projects**
 - 🧠 I’m sharpening my knowledge of **system design and API integration**
 - 💬 Ask me about **Python, Django, DRF, JavaScript, or API development**
-- 📫 How to reach me: **joshef0196@gmail.com**
-- 🧳 Portfolio: [Canary Visa Consultancy Website](https://joshef0196.github.io/Canary-Visa-Consultancy)
-
+- 📫 How to reach me: **hossainjoshef@gmail.com**
 ---
 
 ## 🛠️ Technologies & Tools
@@ -51,7 +49,7 @@
 
 <p>
   <a href="mailto:joshef0196@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://github.com/joshef0196"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
   <a href="https://joshef0196.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github"/></a>
 </p>
 
