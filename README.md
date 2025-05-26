@@ -30,10 +30,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshef0196&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshef0196&layout=compact&theme=radical" width="48%" />
-</p>
+<div align="center"> <a href="https://github.com/joshef0196"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshef0196&show_icons=true&count_private=true&hide_border=true&title_color=FF6B81&icon_color=F7B801&text_color=FFFFFF&bg_color=0D1117" /> </a> <a href="https://github.com/joshef0196"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshef0196&layout=compact&hide_border=true&title_color=FF6B81&text_color=FFFFFF&bg_color=0D1117" /> </a> </div>
 
 ---
 
