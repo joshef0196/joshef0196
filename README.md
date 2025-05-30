@@ -34,14 +34,6 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joshef0196&theme=onedark&margin-w=10&no-frame=true" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 <p>
@@ -49,8 +41,5 @@
   <a href="https://github.com/joshef0196"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"/></a>
   <a href="https://joshef0196.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github"/></a>
 </p>
-
----
-
-> ⭐ _Thank you for visiting my profile! Let's build something amazing together._
+ 
 
