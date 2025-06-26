@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **ERP systems, Visa Consultancy platforms, E-commerce projects and many other exciting projects.**
-- 🌱 I’m learning **Django Channels, WebSocket, and React**
+- 🌱 I’m learning **Django Channels, AI, and React**
 - 👯 I’m open to collaboration on **real-world Python/Django projects**
 - 🧠 I’m sharpening my knowledge of **system design and API integration**
 - 💬 Ask me about **Python, Django, DRF, JavaScript, or API development**
